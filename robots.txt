@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ongiozutha.vanderlistadvocaat.nl/sitemap.xml
